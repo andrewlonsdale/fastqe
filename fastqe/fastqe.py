@@ -2,7 +2,7 @@
 Module      : Main
 Description : The main entry point for the program.
 Copyright   : (c) Andrew Lonsdale, 2017
-License     : MIT
+License     : BSD
 Maintainer  : Andrew Lonsdale
 Portability : POSIX
 
